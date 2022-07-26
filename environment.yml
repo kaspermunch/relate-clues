@@ -1,0 +1,19 @@
+name: relate-clues
+channels:
+  - defaults
+  - conda-forge
+  - kaspermunch
+  - bioconda
+  - r
+dependencies:
+  - numba
+  - seaborn
+  - pandas
+  - scipy
+  - pytables
+  - gwf
+  - python=3.8
+  - h5py
+  - ipympl
+  - bcftools
+prefix: /Users/kmt/miniconda3/envs/relate-clues
